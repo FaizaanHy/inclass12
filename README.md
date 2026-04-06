@@ -3,6 +3,13 @@
 A new Flutter project.
 
 ## Getting Started
+Enhanced Features
+Delete Confirmation Dialog
+Prevents accidental deletion by prompting the user before removing an item.
+
+Total Inventory Value Calculation
+Displays the total value of all items combined (price × quantity), updating in real time.
+
 
 This project is a starting point for a Flutter application.
 
